@@ -1,0 +1,9 @@
+{
+	"ip":"Aal01.aternos.me",
+	"port": "25565",
+	"name": "IamTheB",
+	"auto-night-skip":"false"
+        "login-enabled":"true",
+	"register-cmd":"/register (pookemoon1) (pookemoon1)",
+	"login-cmd":"/login (pookemoon1)"
+}
